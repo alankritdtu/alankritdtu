@@ -15,10 +15,11 @@
 @media screen and (max-width: 992px) {
   #myimgid{
   	border-radius: 10000px ;
-	max-height: 70% ;
-	max-width: 70% ;
-	margin-right: 0px;
-  	text-align: center ;
+	max-height: 80% ;
+	max-width: 80% ;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
   }
 }
 
